@@ -1,0 +1,70 @@
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.exe
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.pdb
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\bin\Debug\WaterMark_DB1.6.exe
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\bin\Debug\WaterMark_DB1.6.pdb
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\AboutForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\BackUpForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\HelpForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LabForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LogForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LogInfoForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\MainWindow.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\picComp.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\SQLForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\TestForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\VersionForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\ViewForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\AboutForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\BackUpForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\HelpForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LabForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LogForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\LogInfoForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\MainWindow.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\picComp.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\SQLForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\TestForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\VersionForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\ViewForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\App.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6_MarkupCompile.cache
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.g.resources
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1._6.Properties.Resources.resources
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\workplace\c#\WaterMark_DB1.7.0\WaterMark_DB1.6\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.exe
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.pdb
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\bin\Debug\WaterMark_DB1.6.exe
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\bin\Debug\WaterMark_DB1.6.pdb
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\AboutForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\BackUpForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\HelpForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LabForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LogForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LogInfoForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\MainWindow.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\picComp.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\SQLForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\TestForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\VersionForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\ViewForm.baml
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\AboutForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\BackUpForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\HelpForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LabForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LogForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\LogInfoForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\MainWindow.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\picComp.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\SQLForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\TestForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\VersionForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\ViewForm.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\App.g.cs
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6_MarkupCompile.cache
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1.6.g.resources
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\WaterMark_DB1._6.Properties.Resources.resources
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\workplace\c#\WaterMark_DB1.7.0 - 副本\WaterMark_DB1.6\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,20 @@
+﻿<Window x:Class="WaterMark_DB1._6.LogInfoForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="注册水印" Height="402" Width="573" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/WaterMark_DB1.6;component/Images/Address%20Book.ico">
+    <Grid>
+        <Label Height="28" HorizontalAlignment="Left" Margin="88,22,0,0" Name="label1" VerticalAlignment="Top" Content="公钥" />
+        <Label Content="私钥" Height="28" HorizontalAlignment="Left" Margin="88,68,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="工商注册号码" Height="28" HorizontalAlignment="Left" Margin="88,122,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="法人身份证号码" Height="28" HorizontalAlignment="Left" Margin="88,178,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="198,124,0,0" Name="textBox1" VerticalAlignment="Top" Width="228" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="198,180,0,0" Name="textBox2" VerticalAlignment="Top" Width="228" />
+        <Button Content="生成公钥" Height="23" HorizontalAlignment="Left" Margin="241,23,0,0" Name="button1" VerticalAlignment="Top" Width="103" />
+        <Button Content="生成私钥" Height="23" HorizontalAlignment="Left" Margin="241,67,0,0" Name="button2" VerticalAlignment="Top" Width="103" />
+        <Button Content="确 定" Height="23" HorizontalAlignment="Left" Margin="133,308,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" />
+        <Button Content="放 弃" Height="23" HorizontalAlignment="Left" Margin="331,308,0,0" Name="button4" VerticalAlignment="Top" Width="75" Click="button4_Click" />
+        <Label Content="提交信息至第三方" Height="28" HorizontalAlignment="Left" Margin="88,240,0,0" Name="label5" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="198,245,0,0" Name="txtCAPath" VerticalAlignment="Top" Width="228" IsReadOnly="True" />
+        <Button Content=".." Height="23" HorizontalAlignment="Left" Margin="427,245,0,0" Name="button5" VerticalAlignment="Top" Width="25" Click="button5_Click" />
+    </Grid>
+</Window>
